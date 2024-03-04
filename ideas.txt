@@ -1,0 +1,125 @@
+ideas:
+1. менять цвет сбитых астероидов
+2. кнопка выключения звука, эффектов, выход на главную
+3. should the balls reduce points if they hit the ground even after they have been hit by your spaceship?
+4. ускорить падение deathstar после 50 / 70 / 100
+5. убрать лаги
+6. логотип и анимация мешаются
+7. гейм овер ломается и вызывается дважды
+8. пол удаляет не все мячи
+9. возможно лаги связаны с геймовером и рестартом игры, анимация кольца
+10. убрать лаги изза касания шаров, просчета физики
+11. переработать выход в главное меню - не показывать резалтс
+12. возможно надо прописать контактбитмаск только главному шару, а остальным убрать
+13. монетки показывать в резалтс сверху
+14. хайскор поменять, сравнивать с предыдущим хайскором
+15. проверить деньги для айфонов и айпедов
+16. придумать что делать с анимацией звезд
+17. после паузы сделать tap to start
+18. только один раз показывать туториалы
+19. починить паузу: физику когда убираешь паузу, анимация пропадает когда игра в паузе во второй раз
+20. сделать заставку перед входом
+21. home в магазине на айпеде ниже сделать и на 10 айпеде кнопка видео
+
+list of models:
+
+iPhone:
+1. X
+2. XR
+3. XS
+4. XS Max
+5. 11
+6. 11 Pro
+7. 11 Pro Max
+8. SE (2 gen)
+9. 12 mini
+10. 12
+11. 12 Pro
+12. 12 Pro Max
+13. 13 mini
+14. 13
+15. 13 Pro
+16. 13 Pro Max
+17. SE (3 gen)
+18. 14
+19. 14 Plus
+20. 14 Pro
+21. 14 Pro Max
+
+iPad:
+1. 5 gen
+2. 6 gen
+3. 7 gen
+4. 8 gen
+5. 9 gen
+
+6. 10 gen
+
+7. mini 5
+
+8. mini 6
+
+9. air 3
+10. air 4
+
+11. air 5
+
+12. pro 3 (11) (12.9)
+13. pro 4
+14. pro 5
+15. pro 6
+
+
+
+
+
+
+
+ratio:
+1. 19.5 : 9 (iphone 13 pro max)
+2. 4 : 3 (ipad pro 12.9 2021)
+3. 3 : 2 (ipad mini 6)
+4. 23 : 16 (ipad air 4)
+5. 10 : 7 (ipad pro 11 2018-2020)
+6. 13 : 6 (iphone x)
+7. 16 : 9 (iphone 8)
+
+
+починить ipad mini 5, ipad 6 gen, ipad 8, ipad air 3,
+
+
+//3.5 inches: iPhone 4S (2011), iPhone 4 (2010), iPhone 3GS (2009), iPhone 3G (2008), iPhone 2G (2007)
+//4 inches: iPhone SE (2016), iPhone 5S (2013), iPhone 5C (2013), iPhone 5 (2012)
+//4.7 inches: iPhone 8 (2017), iPhone 7 (2016), iPhone 6S (2015), iPhone 6+ (2014), iPhone 6 (2014)
+5.4 inches: iPhone 13 Mini (2021), iPhone 12 Mini (2020)
+5.5 inches: iPhone 8+ (2017), iPhone 7+ (2016), iPhone 6S+ (2015)
+5.8 inches: iPhone 11 Pro (2019), iPhone XS (2018), iPhone X (2017)
+6.06 inches: iPhone 13 (2021), iPhone 13 Pro (2021)
+6.1 inches: iPhone 12 Pro (2020), iPhone 12 (2020), iPhone 11 (2019), iPhone XR (2018)
+6.5 inches: iPhone 11 Pro Max (2019), iPhone XS Max (2018)
+6.68 inches: iPhone 13 Pro Max (2021)
+6.7 inches: iPhone 12 Pro Max (2020)
+
+iPad Pro (4th Generation)    12.9 inches    Liquid Retina    280.6 x 214.9 x 5.9 mm
+iPad Pro (3rd Generation)    12.9 inches    Liquid Retina    280.6 x 214.9 x 5.9 mm
+iPad Pro (2nd Generation)    12.9 inches    Retina    305.7 x 220.6 x 6.9 mm
+iPad Pro (1st Generation)    12.9 inches    Retina    305.7 x 220.6 x 6.9 mm
+iPad Pro (2nd Generation)    11 inches    Liquid Retina    247.6 x 178.5 x 5.9 mm
+iPad Pro (1st Generation)    11 inches    Liquid Retina    247.6 x 178.5 x 5.9 mm
+iPad Air (4th Generation)    10.9 inches    Liquid Retina    247.6 x 178.5 x 6.1 mm
+iPad Air (3rd Generation)    10.5 inches    Retina    250.6 x 174.1 x 6.1 mm
+iPad Pro    10.5 inches    Retina    250.6 x 174.1 x 6.1 mm
+iPad 9    10.2 inches    Retina w/ TrueTone    240 x 169 x 6.1
+iPad 8    10.2 inches    Retina    250.6 x 174.1 x 7.5 mm
+iPad 7    10.2 inches    Retina    250.6 x 174.1 x 7.5 mm
+iPad Pro    9.7 inches    Retina    240.0 x 169.5 x 6.1 mm
+iPad Air 2    9.7 inches    Retina    240.0 x 169.5 x 6.1 mm
+iPad Air    9.7 inches    Retina    240.0 x 169.5 x 7.5 mm
+iPad 6    9.7 inches    Retina    240.0 x 169.5 x 7.5 mm
+iPad 5    9.7 inches    Retina    240.0 x 169.5 x 7.5 mm
+iPad Mini 6    8.3 inches    Liquid Retina    195.4 x 134.8 x 6.3 mm
+iPad Mini 5    7.9 inches    Retina    203.2 x 134.8 x 6.1 mm
+//iPad Mini 4    7.9 inches    Retina    203.2 x 134.8 x 6.1 mm
+//iPad Mini 3    7.9 inches    Retina    200 × 134.7 × 7.5 mm
+//iPad Mini 2    7.9 inches    Retina    200 × 134.7 × 7.5 mm
+//iPad Mini 1    7.9 inches    Retina    200 × 134.7 × 7.2 mm

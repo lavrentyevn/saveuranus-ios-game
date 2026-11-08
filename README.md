@@ -36,3 +36,13 @@ Once you lose you get a game over screen where you can see your highscore, coins
 You can also **customize** your Spaceship. Your score when you end your run adds to your coins. Using these coins you can buy a new spaceship.
 
 ![Simulator Screenshot - iPhone 15 - 2024-03-04 at 16 50 56](https://github.com/lavrentyevn/saveuranus-ios-game/assets/111048277/0b4adf72-077c-4c32-aefb-4ccd3161d8cd)
+
+UPDATE: this video game was developed using no AI or LLM at all. Fully handwritten.
+
+
+
+https://github.com/user-attachments/assets/1fc70d99-28fd-419f-b72a-e091f9fcae73
+
+
+
+https://github.com/user-attachments/assets/fe1a7664-4575-4fad-abb2-ae5f8fd54a3f
